@@ -1,0 +1,153 @@
+{
+  "source_audio": "extracted_audio.wav",
+  "model_used": "base",
+  "detected_language": "fr",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.76,
+      "text": "Ma maman, papa ! J'ai eu que terminé !"
+    },
+    {
+      "start": 2.76,
+      "end": 3.76,
+      "text": "Ouais !"
+    },
+    {
+      "start": 3.76,
+      "end": 4.76,
+      "text": "Tu vois qu'il me termine ?"
+    },
+    {
+      "start": 4.76,
+      "end": 5.76,
+      "text": "Ah ! Faa !"
+    },
+    {
+      "start": 5.76,
+      "end": 6.76,
+      "text": "Ah, son grandage !"
+    },
+    {
+      "start": 6.76,
+      "end": 10.76,
+      "text": "Bah ça va, je suis imparisi, on a savant les jeunes, tu vois, mais tu as envie de t'en avoir le permis sinon, hein ?"
+    },
+    {
+      "start": 10.76,
+      "end": 11.76,
+      "text": "Je suis désolé, Feston."
+    },
+    {
+      "start": 12.76,
+      "end": 14.24,
+      "text": "Prends fait cette vauterie, mes instants."
+    },
+    {
+      "start": 16.76,
+      "end": 17.76,
+      "text": "Je l'ai."
+    },
+    {
+      "start": 17.76,
+      "end": 19.76,
+      "text": "Un campagne-moi château d'eau, je vois l'acheter des épices."
+    },
+    {
+      "start": 19.76,
+      "end": 21.36,
+      "text": "Quoi ? Maintenant, mais avec Julien, on va..."
+    },
+    {
+      "start": 21.36,
+      "end": 22.16,
+      "text": "Oui, maintenant."
+    },
+    {
+      "start": 22.16,
+      "end": 23.64,
+      "text": "Ensuite, on va prendre de Versailles, va ton nom."
+    },
+    {
+      "start": 23.64,
+      "end": 24.68,
+      "text": "Mais tu vas enbûcher, la vie de suite."
+    },
+    {
+      "start": 24.68,
+      "end": 27.96,
+      "text": "Tu vas laisser ta mère prendre l'étransport avec toutes les cours, c'est sur mal d'eau."
+    },
+    {
+      "start": 28.48,
+      "end": 29.56,
+      "text": "Ouais, non, non, bien sûr que non."
+    },
+    {
+      "start": 29.56,
+      "end": 33.08,
+      "text": "Et de mes matins, Tira accompagné tente Gerteru d'Alairoport, elle part aux antiques."
+    },
+    {
+      "start": 33.08,
+      "end": 33.72,
+      "text": "Quoi ?"
+    },
+    {
+      "start": 33.72,
+      "end": 35.2,
+      "text": "Mais non, mais non !"
+    },
+    {
+      "start": 35.2,
+      "end": 38.08,
+      "text": "Son avion décolle à Medi, dont soit là bas pour 6 heures du matin."
+    },
+    {
+      "start": 38.08,
+      "end": 39.88,
+      "text": "Tira la chercher à quatre fois."
+    },
+    {
+      "start": 39.88,
+      "end": 40.88,
+      "text": "Non !"
+    },
+    {
+      "start": 40.88,
+      "end": 41.72,
+      "text": "Ah !"
+    },
+    {
+      "start": 41.72,
+      "end": 43.4,
+      "text": "Bah, arrête de t'avoir connu hein, salut !"
+    },
+    {
+      "start": 44.12,
+      "end": 44.84,
+      "text": "Ah !"
+    },
+    {
+      "start": 44.84,
+      "end": 47.16,
+      "text": "Désolé, mon fils, à présenter les hubords de la famille."
+    },
+    {
+      "start": 47.16,
+      "end": 47.44,
+      "text": "Ah !"
+    },
+    {
+      "start": 50.16,
+      "end": 51.68,
+      "text": "Eh ! Et tu serais jamais bébé."
+    },
+    {
+      "start": 51.68,
+      "end": 52.52,
+      "text": "J'ai bébé."
+    }
+  ],
+  "full_transcription": "Ma maman, papa ! J'ai eu que terminé ! Ouais ! Tu vois qu'il me termine ? Ah ! Faa ! Ah, son grandage ! Bah ça va, je suis imparisi, on a savant les jeunes, tu vois, mais tu as envie de t'en avoir le permis sinon, hein ? Je suis désolé, Feston. Prends fait cette vauterie, mes instants. Je l'ai. Un campagne-moi château d'eau, je vois l'acheter des épices. Quoi ? Maintenant, mais avec Julien, on va... Oui, maintenant. Ensuite, on va prendre de Versailles, va ton nom. Mais tu vas enbûcher, la vie de suite. Tu vas laisser ta mère prendre l'étransport avec toutes les cours, c'est sur mal d'eau. Ouais, non, non, bien sûr que non. Et de mes matins, Tira accompagné tente Gerteru d'Alairoport, elle part aux antiques. Quoi ? Mais non, mais non ! Son avion décolle à Medi, dont soit là bas pour 6 heures du matin. Tira la chercher à quatre fois. Non ! Ah ! Bah, arrête de t'avoir connu hein, salut ! Ah ! Désolé, mon fils, à présenter les hubords de la famille. Ah ! Eh ! Et tu serais jamais bébé. J'ai bébé."
+}
